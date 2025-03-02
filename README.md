@@ -3,7 +3,7 @@
 
 <div align="center">
  <h5>This weir ahh readme.md is supposed to be special idkkk</h5>
- <img  width="600" src="[https://github.com/user-attachments/assets/32985f59-dc6d-4805-a873-f36db7e33422](https://pbs.twimg.com/media/F4e7CQxXwAEv-31?format=jpg&name=small)">
+ <img  width="600" src="https://pbs.twimg.com/media/F4e7CQxXwAEv-31?format=jpg&name=small">
  </div>
 
  ###
